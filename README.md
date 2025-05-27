@@ -6,12 +6,12 @@ I'm a results-driven **Senior Java Developer** with a strong background in diagn
  
  ### Skills
  
-**Main Languages:** Java, Scala, Kotlin
-**Used Languages:** Python, JavaScript, Rust, Lua, Bash
-**Frameworks & Libraries:** Spring Boot, React, HTMX, Hibernate/JPA, Thymeleaf, RabbitMQ
-**Databases:** PostgreSQL, SQLite, SQL
-**Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD (Github CI, GitLab CI, Jenkins), Linux, SonarQube
-**Tools & Methodologies:** Git, RESTful APIs, Agile/Scrum, Clean Code, Design Patterns, Grafana, Redis
+- **Main Languages:** Java, Scala, Kotlin
+- **Used Languages:** Python, JavaScript, Rust, Lua, Bash
+- **Frameworks & Libraries:** Spring Boot, React, HTMX, Hibernate/JPA, Thymeleaf, RabbitMQ
+- **Databases:** PostgreSQL, SQLite, SQL
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD (Github CI, GitLab CI, Jenkins), Linux, SonarQube
+- **Tools & Methodologies:** Git, RESTful APIs, Agile/Scrum, Clean Code, Design Patterns, Grafana, Redis
  
  ---
  
