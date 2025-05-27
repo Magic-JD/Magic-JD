@@ -49,6 +49,8 @@ all supported by a full **CI/CD pipeline** for deployment to **AWS**.
 
 ### [Pick and Mix](https://github.com/Magic-JD/PickAndMix)
 
+![pick and mix demo](demo/wordplay.gif)
+
 An engaging daily word transformation game developed using **React**. The
 objective is to transform a starting word into a target word within five steps,
 requiring anagrams and single-letter changes at each step. This project
@@ -66,6 +68,8 @@ experience. The site supports English, Indonesian, and Ukrainian languages and
 attracts around 120 unique visitors per month.
 
 ### [Is-fast: Terminal-Based Web Tool](https://github.com/Magic-JD/is-fast)
+
+![is-fast demo](demo/is-fast.gif)
 
 A cross-platform **TUI (Terminal User Interface)** tool built with **Rust**,
 designed for quick and efficient internet searches directly from the terminal,
