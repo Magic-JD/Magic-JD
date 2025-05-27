@@ -36,6 +36,8 @@ interests and capabilities:
 
 ### [Smart Jobs](https://github.com/Magic-JD/SmartJobs)
 
+![smart jobs demo](demos/smartjobs.gif)
+
 An **AI-powered web application** designed to revolutionize job search and
 recruitment. It provides intelligent matching between candidates and roles,
 performs detailed CV analysis to extract skills and qualifications, and offers
