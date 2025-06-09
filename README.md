@@ -13,6 +13,8 @@ performing stand-up comedy and close-up magic, which has helped hone my public
 speaking, improvisation, and interpersonal skills. I'm also active in rock
 climbing (bouldering, lead, top rope) and scuba diving.
 
+Follow my medium posts for great tech updates [@josephdaunt70](https://medium.com/@josephdaunt70)
+
 ---
 
 ## Skills
